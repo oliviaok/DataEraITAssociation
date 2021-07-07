@@ -1,6 +1,6 @@
 ---
 slug: Heyoo!
-title: Heyoo!
+title: Heyoo! Yeah
 author: Olivia Guo
 author_title: Web developper
 author_url: https://github.com/oliviaok
